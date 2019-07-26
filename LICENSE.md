@@ -1,2 +1,2 @@
 
-Copyright (C) 2018 David Stephane Belemkoabga
+Copyright (C) 2019 Kevin Sylla
